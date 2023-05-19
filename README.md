@@ -10,7 +10,8 @@
 
 ✅ Currently, I am a student at UBB, Postgraduate Training Program in Computer Science and looking for a place to develop and apply new skills.
 
-## Background (Motto: Still loading ⌛, because I'm learning...)
+## Background 
+(Motto: Still loading ⌛, because I'm learning...)
 
 ❖ In short, I have done a lot of studies in my life 🤓, and for now, I might say I won't stop, because as we develop as grown-ups, we are more conscious about how little we know about everything surrounding us 📖.
 
