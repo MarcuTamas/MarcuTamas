@@ -13,7 +13,8 @@
 ❖ I am a curious 🤔 and dedicated individual who thrives on acquiring new knowledge. 
 <br />
 In essence, I am a lifelong learner 🎓.
-- The experiences of life serve as a constant reminder of how much I have yet todiscover about myself 💭 and others. They also reveal that everything around me is an
+- The experiences of life serve as a constant reminder of how much I have yet todiscover about myself 💭 and others. 
+- They also reveal that everything around me is an
 unknown 🔮, fueling my curiosity and driving me to explore and learn as much as I can. 
 
 
