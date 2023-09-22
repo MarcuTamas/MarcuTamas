@@ -8,7 +8,7 @@
 
 ⚖️"Developed" by Law 💜.
 
-✅ Currently, I am a student in my final at UBB, Postgraduate Training Program in Computer Science and looking for a place to develop and apply new skills.
+✅ Currently, I am a student in my final year at UBB, Postgraduate Training Program in Computer Science and looking for a place to develop and apply new skills.
 
 ❖ I am a curious 🤔 and dedicated individual who thrives on acquiring new knowledge. 
 <br />
