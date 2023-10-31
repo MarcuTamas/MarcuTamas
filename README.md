@@ -4,11 +4,13 @@
 <br />
 <small>💡Hint: ASCII.</small>
 
+## [Personal website 🌍](https://marcutamas.github.io/PersonalWebsite/)
+
 ## Introduction
 
-⚖️"Developed" by Law 💜.
+~ I was developed by Law ⚖️ and grown by Computer Science 💻 ~
 
-✅ Currently, I am a student in my final year at UBB, Postgraduate Training Program in Computer Science and looking for a place to develop and apply new skills.
+✅ Currently, I am an Expert Volunteer at DNSC and a Computer Science Student in my final year of the Postgraduate Training Program in Computer Science at The Babeș-Bolyai University in Cluj-Napoca and looking for a place to develop and apply new skills.
 
 ❖ I am a curious 🤔 and dedicated individual who thrives on acquiring new knowledge. 
 <br />
