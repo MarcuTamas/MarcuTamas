@@ -22,7 +22,8 @@ unknown 🔮, fueling my curiosity and driving me to explore and learn as much a
 ## Background ⌛ 
 Motto : Still loading because I'm learning...
 
-## [Personal website 🌍](https://marcutamas.github.io/PersonalWebsite/)
+## Personal website 🌍
+[Check it here](https://marcutamas.github.io/PersonalWebsite/)
 
 ## LinkedIn Profile
  💼 More details about my professional experience and skills can be found on [LinkedIn profile](https://www.linkedin.com/in/tamasmarcu/).
